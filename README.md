@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndieGO86
 - 👀 I’m interested snowboarding and big mountains 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
